@@ -14,7 +14,11 @@
     {"name": "Refuah", "masked": "logos/1/masked/refuah.jpg", "full": "logos/1/full/refuah.jpg"},
     {"name": "Sova", "masked": "logos/1/masked/sova.jpg", "full": "logos/1/full/sova.jpg"},
     {"name": "Shomrim", "masked": "logos/1/masked/shomrim.jpg", "full": "logos/1/full/shomrim.jpg"},
-    {"name": "Gefen", "masked": "logos/1/masked/gefen.jpg", "full": "logos/1/full/gefen.jpg"}
+    {"name": "Gefen", "masked": "logos/1/masked/gefen.jpg", "full": "logos/1/full/gefen.jpg"},
+    {"name": "Banana Bus", "masked": "logos/1/masked/bananabus.jpg", "full": "logos/1/full/bananabus.jpg"},
+    {"name": "Artscroll", "masked": "logos/1/masked/artscroll.jpg", "full": "logos/1/full/artscroll.jpg"},
+    {"name": "Chocolate Fantasies", "masked": "logos/1/masked/chocolatefantasies.jpg", "full": "logos/1/full/chocolatefantasies.jpg"},
+    {"name": "Grodzinski", "masked": "logos/1/masked/grodzinski.jpg", "full": "logos/1/full/grodzinski.jpg"}
   ]},
   {"level": 2, "title": "Groceries", "logos": [
     {"name": "Hatzlacha", "masked": "logos/1/masked/hatzlacha.jpg", "full": "logos/1/full/hatzlacha.jpg"},
