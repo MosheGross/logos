@@ -22,6 +22,25 @@
     {"name": "K Desserts", "masked": "logos/1/masked/kdesserts.jpg", "full": "logos/1/full/kdesserts.jpg"}
   ]},
   {"level": 2, "title": "Groceries", "logos": [
-    {"name": "Hatzlacha", "masked": "logos/2/masked/hatzlacha.jpg", "full": "logos/2/full/hatzlacha.jpg"}
+    {"name": "Hatzlacha", "masked": "logos/2/masked/hatzlacha.jpg", "full": "logos/2/full/hatzlacha.jpg"},
+    {"name": "Kays", "masked": "logos/2/masked/kays.jpg", "full": "logos/2/full/kays.jpg"},
+    {"name": "Kosher Kingdom", "masked": "logos/2/masked/kosherkingdom.jpg", "full": "logos/2/full/kosherkingdom.jpg"},
+    {"name": "1010", "masked": "logos/2/masked/1010.jpg", "full": "logos/2/full/1010.jpg"},
+    {"name": "Berrys", "masked": "logos/2/masked/berrys.jpg", "full": "logos/2/full/berrys.jpg"},
+    {"name": "Fairview", "masked": "logos/2/masked/fairview.jpg", "full": "logos/2/full/fairview.jpg"},
+    {"name": "Kol Tov", "masked": "logos/2/masked/koltov.jpg", "full": "logos/2/full/koltov.jpg"},
+    {"name": "Koshermart", "masked": "logos/2/masked/koshermart.jpg", "full": "logos/2/full/koshermart.jpg"},
+    {"name": "Kosherie", "masked": "logos/2/masked/kosherie.jpg", "full": "logos/2/full/kosherie.jpg"},
+    {"name": "Watermint", "masked": "logos/2/masked/watermint.jpg", "full": "logos/2/full/watermint.jpg"},
+    {"name": "Taanig", "masked": "logos/2/masked/taanig.jpg", "full": "logos/2/full/taanig.jpg"},
+    {"name": "Kleins", "masked": "logos/2/masked/kleins.jpg", "full": "logos/2/full/kleins.jpg"},
+    {"name": "Hype", "masked": "logos/2/masked/hype.jpg", "full": "logos/2/full/hype.jpg"},
+    {"name": "Breuer & Spitzer", "masked": "logos/2/masked/breuerspitzer.jpg", "full": "logos/2/full/breuerspitzer.jpg"},
+    {"name": "Tapuach", "masked": "logos/2/masked/tapuach.jpg", "full": "logos/2/full/tapuach.jpg"},
+    {"name": "Kosher Spot", "masked": "logos/2/masked/kosherspot.jpg", "full": "logos/2/full/kosherspot.jpg"},
+    {"name": "Egg Stores", "masked": "logos/2/masked/eggstores.jpg", "full": "logos/2/full/eggstores.jpg"},
+    {"name": "Carmel", "masked": "logos/2/masked/carmel.jpg", "full": "logos/2/full/carmel.jpg"},
+    {"name": "Makolet", "masked": "logos/2/masked/makolet.jpg", "full": "logos/2/full/makolet.jpg"},
+    {"name": "B Kosher", "masked": "logos/2/masked/bkosher.jpg", "full": "logos/2/full/bkosher.jpg"}
   ]}
 ]}
